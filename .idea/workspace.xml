@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="376cf533-d5ac-402b-99ff-9899714168b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-310x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/conv30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/conv40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/conv50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/heart30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/heart40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/heart50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/m1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/m2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/m3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/m4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/m5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/people35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/people45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/people55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/marker_clusterer_images/pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/CSC11.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/HerouxPaper.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/sample.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/software-carpentry-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/CS373PresentationEvaluationForm.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/CS373WritingEvaluationForm.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/CSCI373CourseHandbookThirteenthEdition.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/TechWritingSpeaking2.0.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/osu1299620089.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card01.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card02.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card03.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card04.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card05.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card06.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card07.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card08.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card09.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card10.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card11.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card12.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card13.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card14.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card15.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card16.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card17.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card18.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card19.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card20.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card21.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card22.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card23.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiff/Card24.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CITATION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/amy.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/authors.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/dashboard.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/includes.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/language.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/network.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_data/socialmedia.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/alert" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/breadcrumb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/comments" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/flipcause" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/footer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/footer_scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/frontpage-widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/google_search" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/head" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/improve_content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/list-collection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/list-posts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/masthead" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/meta_information" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/navigation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/next-previous-post-in-category" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/bids.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/caltech.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/compute-canada.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/continuum.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/cyverse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/elixir-uk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/enthought.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/github.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/indiana-u.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/insight-data-science.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/intel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/jackson-lab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/jpmorgan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/kaust.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/lanl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/lbl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/leeds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/mathworks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/michigan-state.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/michigan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/microsoft.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/mitacs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/mozilla.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/msl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/nesi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/nlesc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/numfocus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/psf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/qmul.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/rackspace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/rstudio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/scimatic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/scinet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/sharcnet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/sloan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ssi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/uc-davis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ucar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ucl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ucsd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ufl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/ukmo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/umelbourne.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/umiami.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/utoronto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/orgs/uw-escience.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pagination" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/paypal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/adams_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/adelman_joshua.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ahmadia_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ahmed_arfan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/aiello-lammens_matthew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ainsley_joshua.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/aldazabal_inigo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/alexander_harriet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/alleen-willems_russell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/allen_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/alonzi_pete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/alsheikh-hussain_areej.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/anderson_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/andrew_carrie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/anghel_catalina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ankenbrand_markus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/antonioletti_mario.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/aranda_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/aruliah_d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/avestruz_camille.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/badalamenti_jon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bae_sung.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bahlai_christie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bajcz_alex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ballinger_thomas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/baltzell_asher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/banaszkiewicz_piotr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/barmby_pauline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/barneche_diego.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/barr_ewan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bast_radovan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/batut_berenice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bauer_dana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bayer_p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/beagrie_robert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/beitey_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bekolay_trevor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/belcaid_mahdi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/belikov_evgenij.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bell_jason.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bennett_n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/berghold_jared.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bergman_casey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/berry_michelle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/blakk_lukas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/blischak_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/boettiger_carl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/boissonneault_maxime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bond_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bonnie_jessica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bonsma_madeleine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/boocock_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bostroem_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/boughton_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bouquin_daina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bowman_ross.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/boyle_amy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bray_e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brin_lindsay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/broman_karl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brown_amy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brown_ct.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brown_kyler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brunson_dana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/bryan_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/brym_zachary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/burns_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cabunoc_abigail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/calhoun_patrick.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/camins-esakov_jared.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/canino-koning_r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cannam_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/capes_gerard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/caporaso_greg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/card_daren.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/carr_lindsay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cartwright_reed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cerino_t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chamberlain_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chan_cliburn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/charbonneau_amanda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chase_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chatzidimitriou_kyriakos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chen_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chisholm_chelsea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/choi_jin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cholia_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/christensen_erica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/christensen_garret.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chuang-howe_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chue-hong_n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chung_kally.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/chung_kathy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/clare_richard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/clayton_sarah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/clayton_sophie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cmero_marek.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/code_w.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/coelho_luis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/collings_ruth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/collins_arliss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/collins_matthew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/colonna_vincenza.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cordero_victor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/corless_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/corvellec_marianne.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/coudrat_thomas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cox_grace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cox_logan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cozzini_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/cranston_k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/crouch_nicholas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/crouch_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/croucher_mike.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/crusoe_michael.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/daigle_remi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dale_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dashnow_harriet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/davenport_e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/davey_rob.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/davis_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/davis_neal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/debo_christof.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/demichelis_raffaella.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dennis_tim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/derrick_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/desjardins_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/devenyi_gabriel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/devisetty_upendra-kumar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/devlin_catherine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/diaz-gil_andres.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dickenson_matt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dickson_r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/didion_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/diong_joanna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/doehle_phillip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dolson_emily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/dotson_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/doyle_kimberly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/droop_alastair.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/duchesne_laurent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/duckles_jonah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/duffy_meghan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/duncan_susan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/earl_stevan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/eddelbuettel_dirk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ely_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/emonet_remi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/erlich_aaron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/etxaniz_oier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/evans_andy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/eyers_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/faghirhagh_varda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/falster_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/farsarakis_emmanouil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fauber_bennet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fei_xu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ferguson_angus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fernandes_filipe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fernandez-valverde_selene.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ferreira-bocca_felipe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/figueira_l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fishman_dmytro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fitzjohn_rich.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/flaxman_abraham.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fonnesbeck_chris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fontenelle_hugues.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ford_jes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ford_talitha.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/forstner_konrad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fournier_auriel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fowler_philip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/friedline_chris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fu_zhuo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/fucile_geoffrey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/furstenau_tara.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gacenga_francis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gallinger_jessica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gan_emilia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/garcia-algarra_javier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/garcia-gutierrez_leonor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/garcia_julian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gardner_paul.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/garoutte_aaron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gates_chris.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gatto_laurent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ge_baolai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/geiger_stuart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/geldenhuis_andre.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ghaffari_noushin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gibling_heather.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gibson_molly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/goble_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gogoglou_antonia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gonzalez_ivan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gorman_gerard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/graham_laura.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/grande_bruno.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gray_jeremy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gross_jonathan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/guignard_thomas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/gustavsen_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/guy_t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/guyer_jonathan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/guzman_melissa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/haddock_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/haine_denis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hames_sam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hamm_christopher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hamrick_jessica.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hansen_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/harris_rayna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/harrison_anthony.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/harstad_emelie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hart_t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hawke_ian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hayek_wolfgang.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/held_fabian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/henderson_donna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/henry_ian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/heroux_martin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/herr_joshua.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hertweck_kate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hetherington_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hiebert_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hinchliff_cody.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hinsen_k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hjelm_johan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ho_xavier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hocking_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hodge_amy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hodges_toby.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hojjati_alireza.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/holdgraf_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hollister_jeff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/hoyt_peter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/huang_daisie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/huff_k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/imamoglu_fatma.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/irving_d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ismiraldi_yuandra.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ivanov_p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jackson_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jacobs_christian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/james_nick.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jarecka_dorota.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jedrzejewski-szmek_zbigniew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/johnson_ben.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/johnston_luke.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/johnston_myfanwy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jones_dm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/jones_martin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/joyce_blake.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kajic_ivana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kazmi_saira.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kelly_tom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kerr_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ketcheson_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/khetani_radhika.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kim_jan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/king_wt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kintsakis_athanassios.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kiral-kornek_isabell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kitzes_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/klerke_sigrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/knuth_shelley.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/koch_christina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/koenig_steven.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/koeppel_alexander.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/konrad_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/koontz_michael.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kozlov_igor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kumar_avishek.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kuzak_mateusz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/kwakwa_kwasi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/labou_stephanie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lafleur_olivier.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/laforest-lapointe_isabelle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lagesen_k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lake_sherry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/laken_benjamin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lant_jeremiah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lasher_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/latornell_d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/laufersweiler_mark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lebauer_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lee_kate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lee_kwangchun.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lee_luke.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/leeman_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lehtomaki_joona.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/leng_joanna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/levernier_jacob.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/leyder_jean-christophe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/li_peter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/liberton_denise.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lightman_matthew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lijnzaad_philip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lin_johnny.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/liu_gang.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lonsdale_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lotterhos_kathleen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/love_rebecca.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lowe_elijah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/lowndes_julia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/luo_yuxi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ma_eric.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/macdonell_cam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/macindoe_gary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/maclean_dan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/madin_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/madison_cindee.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/magle_tobin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/manhaes-savio_alexandre.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mansour_tamer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/marconi_sergio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/maree_naudene.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/marek_diana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/marini_camille.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/martinez_paula.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/marwaha_kunal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/marwick_ben.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/masakuna_jordan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mashchenko_sergey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/masoud-ansari_sina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/may_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mayer_fernando.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mcclatchy_sue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mcclung_bill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mcdonald_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mcgough_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mcgoveran_catherine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mckay_sheldon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mckellar_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mckinley_maria.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mclean_cameron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mctavish_ej.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/medrela_krzysztof.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/meister_sarah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/menegon_stefano.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/metz_jeremy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/michael_lauren.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/michnowicz_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/michonneau_francois.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mickley_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/middleton_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/miles_brian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/milhans_jackie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mills_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/miotto_amanda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mistry_meeta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mitchell_i.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mohr_christian-wilhelm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mokhtarzadeh_hamid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/moore_jason.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/moore_timothy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/morris_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mudrak_erika.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mueller_andreas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/mueller_markus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/munk_madicken.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/munoz_ian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/murtaza_ghulam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nagraj_vp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nahum_josh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nakhoul_hani.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/namburi_sandeep.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nandez_jose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/navarro_francisco.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nederbragt_l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/neeb_moritz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nenadic_aleksandra.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/neufeld_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nielsen_daiva.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nielsen_jens.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nilsson_matthias.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/norris_timothy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/nunez-iglesias_juan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ocais_alan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/odell_allison-jai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ogrady_tina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/oleary_aaron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/oliver_jeffrey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/olson_r.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/olsson_catherine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/orendt_anita.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/orr_adam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ory_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/otsuji_reid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/palamartchouk_kirill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/palm_francisco.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/paulo_martin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pawlik_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pearson_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/peek_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pell_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/perez-suarez_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/perez_f.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/perignon_mariela.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/perrett_heidi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/perry_adam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/peru_giacomo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/petre_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pfenninger_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pinska_adrianna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pipitone_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pitchers_w.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/plumbley_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pollard_tom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pomorski_pawel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/preeyanon_likit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pritchard_leighton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/profiti_giuseppe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/provencher_francoise.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/psomopoulos_fotis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/pue_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ram_k.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ramalingam_saravanan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ramos-musalem_ana-karina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ranjard_louis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rawat_rohit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/razoumov_alex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/read_emily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rice_timothy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/richie-halford_adam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/riemer_kristina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/riley_janet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rio_david.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ritchie_scott.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/roberts_leah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/robinson_james.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/robinson_natalie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/robinson_rosario.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rohl_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rokem_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rosenfield_phil.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rosner_jamie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ross_noam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rowell_bill.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/rugis_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/russo_dan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ruttley_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sadjadi_seyed-mahdi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sampath_ramesh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sanders_shane.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sane_maneesha.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sarahan_michael.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schilling_martin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schloss_pat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schmeier_sebastian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schmidt_marian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schneider_juliane.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schoenrock_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schossau_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/schwartz_rachel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/scopatz_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/selik_m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/senyondo_henry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/serra_neem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shambaugh_brent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sharan_malvika.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shelton_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shelton_jennifer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sheneman_leigh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sherman_jason.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shih_yu-ching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shiklomanov_alexey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/shkurti_ardita.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/silva_raniere.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/simpkin_sarah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/simpson_jack.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/simpson_john.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/slaybaugh_rachel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sloggett_clare.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/small_luc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smith_allison.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smith_byron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smith_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smith_j.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smithyman_brendan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/smorul_mike.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/soares-siqueira_abel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/soderberg_courtney.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/soontiens_nancy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/speer_donald.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/srinath_ashwin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/srinivasan_karthik.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/st-onge_pier-luc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stachelek_joseph.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stacy_mark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stafford_jeff.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/standage_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/staneva_valentina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stanton-cook_mitchell.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stapleton_jim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/staton_margaret.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/steinbach_peter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stevens_sarah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stillwell_mark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stimberg_marcel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/strootman_jonathan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stubbs_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/stueker_oliver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sumner_mike.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/sundaram_arvind.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/supp_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/svaksha.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/swaminathan_gayathri.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/taber-thomas_bradley.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tarkowski_leszek.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tarvin_becca.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tatman_rachael.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/taylor_cody.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/teague_brian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/teal_t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/telenczuk_bartosz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/telenczuk_maria.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/terman_rochelle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/teucher_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/thoele_florian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/thomas_adam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/thomson_samuel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/thrimawithana_amali.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/till_robert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/timbers_tiffany.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tomlinson_christopher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tomsett_richard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tran_lina.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/trimble_will.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/troendle_tim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/turek_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/turner_s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/tweedie_fiona.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ugalde_juan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ushizima_daniela.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vahtras_olav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vaidyanathan_ramnath.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/valls-guimera_roman.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-der-helm_edwin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-der-walt_anelda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-heusden_peter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-rossum_thea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-schyndel_jay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/van-tuyl_steve.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vandervalk_steven.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vanichkina_darya.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/varga_vicky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vargas_horacio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/varoquaux_n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vera_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/via_allegra.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/viana_a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vilbig_kevin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/von-bieberstein_philipp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/vonderlinden_jens.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wake_leanne.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/walker_andrew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/walker_dawn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wallis_mike.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/walsh_alistair.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/warren_dan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wasser_leah.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/waterfall_josh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/waugh_b.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/weaver_belinda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/weber_lukas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/weinstein_ben.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wheeler_daniel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wheelhouse_mark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/whitaker_melissa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/white_e.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/white_easton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/whitefield_shawn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/whitehead_tyson.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/whitlock_alexander.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wijeratne_asela.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wilber_mark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wilkerson_chandler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/williams_jason.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/williams_l.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/williams_ryan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/williamson_evan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/williford_anna.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/willmore_frank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wilson_aidan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wilson_g.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wilson_p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/winston_donald.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/winton_jared.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/woo_kara.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/woods_c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wright_thomas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wu_steven.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/wyder_stefan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/xiao_xiao.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/yang_fan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/yang_hsi-kai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/ye_isaac.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/young_lynn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zakkaroff_constantine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zhang_jingchao.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zhang_qp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zimmerman_naupaka.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zito_t.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/people/zonca_andrea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/active-papers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/archer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/astropy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/biostars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/cyclus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/ecodata-retriever.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/eff-phys.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/gap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/genomics-virtual-lab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/git-rdm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/ipfs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/iplant.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/jors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/khmer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/macroeco.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/magetbrain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/mahotas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/math-education-resources.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/mothur.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/msl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/nipy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/open-tree-of-life.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/pecan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/practical-computing-for-biologists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/pymc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/pyne.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/pyrdm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/ropensci.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/scikit-bio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/scikit-image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/sharelatex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/stat-545.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/projects/tec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/sidebar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/sitemap_collection.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/youtube" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/compress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/page-fullwidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/redirect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/xml-style.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_01_settings_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_02_settings_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_03_settings_mixins_media_queries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_04_settings_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_05_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_06_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_07_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_09_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_11_syntax-highlighting.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/_functions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_accordion.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_alert-boxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_block-grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_clearing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_dropdown-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_flex-video.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_icon-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_inline-lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_joyride.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_keystrokes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_magellan.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_offcanvas.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_orbit.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_pricing-tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_range-slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_reveal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_side-nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_split-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_sub-nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_switches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_thumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_toolbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_tooltips.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_top-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/foundation-components/_visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/atom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/rss.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/styles_feeling_responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/.fontcustom-manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fontcustom.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont-preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/.fontcustom-manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/browser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/chat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/chevron-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/chevron-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/chevron-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/circle-with-cross.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/circle-with-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/circle-with-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/cog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/dropbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/feather.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/globe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/heart-outlined.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/lab-flask.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/leaf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/message.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/mic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/network.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/paper-plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/pinterest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/price-tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/rocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/soundcloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/star-outlined.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/thumbs-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/tree.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/tumblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/upload-to-cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/xing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/svg-files-for-custom-font/youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo-blue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/safari-pinned-tab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.tooltips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.tooltips.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/javascript.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xslt/atom.xslt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xslt/rss.xslt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/cibuild" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/get-amy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/get-dashboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/get-includes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rebuild-site.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/BetterWriting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/CapstoneBingo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/CourseRestropective.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/Grading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/Latex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/MeetingSchedule.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/PositionPaper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/Prediction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/PresentationRecord.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/PresentationTechnical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/TechnicalDiscussion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/TitleAbstract.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/UsefulLinks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/search.md" />
+    </list>
+    <ignored path="CS373Carpentry.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CS373Carpentry" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.875">
+              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cibuild" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/cibuild">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/Grading.html" />
+        <option value="$PROJECT_DIR$/pages/BetterWriting.html" />
+        <option value="$PROJECT_DIR$/pages/Latex.html" />
+        <option value="$PROJECT_DIR$/pages/MeetingSchedule.html" />
+        <option value="$PROJECT_DIR$/pages/CapstoneBingo.html" />
+        <option value="$PROJECT_DIR$/pages/CourseRestropective.html" />
+        <option value="$PROJECT_DIR$/pages/SampleFinalPapers.html" />
+        <option value="$PROJECT_DIR$/_data/socialmedia.yml" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_data/services.yml" />
+        <option value="$PROJECT_DIR$/pages/PositionPaper.html" />
+        <option value="$PROJECT_DIR$/pages/Prediction.html" />
+        <option value="$PROJECT_DIR$/pages/PresentationRecord.html" />
+        <option value="$PROJECT_DIR$/pages/PresentationTechnical.html" />
+        <option value="$PROJECT_DIR$/pages/TechnicalDiscussion.html" />
+        <option value="$PROJECT_DIR$/pages/TitleAbstract.html" />
+        <option value="$PROJECT_DIR$/pages/UsefulLinks.html" />
+        <option value="$PROJECT_DIR$/pages/about.html" />
+        <option value="$PROJECT_DIR$/_data/authors.yml" />
+        <option value="$PROJECT_DIR$/pages/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS373Carpentry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS373Carpentry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS373Carpentry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../website" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS373Carpentry" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="376cf533-d5ac-402b-99ff-9899714168b9" name="Default" comment="" />
+      <created>1476495831853</created>
+      <option name="number" value="Default" />
+      <updated>1476495831853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42913908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_07_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CITATION">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.66317993">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Grading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/BetterWriting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/MeetingSchedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16519824">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/CourseRestropective.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5154185">
+          <caret line="549" column="14" selection-start-line="549" selection-start-column="14" selection-end-line="549" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/includes.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/network.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5947136">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/SampleFinalPapers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/PositionPaper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/software-carpentry-banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Prediction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.166667">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/PresentationRecord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.166667">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/PresentationTechnical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-51.875">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/TechnicalDiscussion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.166667">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09911894">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/Latex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6431718">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/CapstoneBingo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/UsefulLinks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8964758">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comments">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/TitleAbstract.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6762115">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer_scripts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2280334">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1338912">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9052863">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/authors.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33039647">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8678414">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/amy.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.337006">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/dashboard.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page-fullwidth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.875">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/cibuild">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

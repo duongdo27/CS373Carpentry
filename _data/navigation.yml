@@ -1,0 +1,73 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Grade"
+  url: "/Grading/"
+  side: left
+
+- title: "Meeting Schedule"
+  url: "/MeetingSchedule/"
+  side: left
+
+- title: "Course Material"
+  side: left
+  dropdown:
+  - title: "Course Book"
+    url: "/pdfs/CSCI373CourseHandbookThirteenthEdition.pdf/"
+  - title: "Writing evalution"
+    url: "/pdfs/CS373WritingEvaluationForm.pdf/"
+  - title: "Presentation evaluation"
+    url: "/pdfs/CS373PresentationEvaluationForm.pdf/"
+  - title: "Sample Final Papers"
+    url: "/SampleFinalPapers/"
+
+- title: "Exercise"
+  side: left
+  dropdown:
+  - title: "Better Writing"
+    url: "/BetterWriting/"
+  - title: "Title and Abstract"
+    url: "/TitleAbstract/"
+  - title: "Technical Discussion"
+    url: "/TechnicalDiscussion/"
+  - title: "Postion Paper"
+    url: "/PositionPaper/"
+  - title: "Prediction"
+    url: "/Prediction/"
+  - title: "Postion Paper"
+    url: "/PositionPaper/"
+
+- title: "Presentation"
+  side: left
+  dropdown:
+  - title: "Technical Presentation"
+    url: "/PresentationTechnical/"
+  - title: "Technical Writing and Speaking"
+    url: "pdfs/TechWritingSpeaking2.0.pdf/"
+  - title: "Record Presentation"
+    url: "/team/"
+  - title: "Related Projects"
+    url: "/PresentationRecord"
+  - title: "Capstone Bingo"
+    url: "/CapstoneBingo/"
+
+- title: Useful Links
+  side: left
+  dropdown:
+  - title: "Using Latex"
+    url: "/Latex/"
+  - title: "Other Links"
+    url: "/UsefulLinks/"
+
+- title: "Submit work"
+  url: "/SubmitWork/"
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
