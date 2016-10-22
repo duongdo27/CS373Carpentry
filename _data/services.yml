@@ -8,10 +8,6 @@
   url: "https://collegeville.github.io/Lex/"
   title: "Lex project: Effective Software"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
-
 # - name: "Atom"
 #   url: "/atom.xml"
 #   title: "Subscribe to Atom Feed"

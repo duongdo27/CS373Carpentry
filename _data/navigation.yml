@@ -11,18 +11,24 @@
   side: left
 
 - title: "Course Material"
+  url: "/CourseMaterial/"
   side: left
   dropdown:
   - title: "Course Book"
     url: "/pdfs/CSCI373CourseHandbookThirteenthEdition.pdf/"
-  - title: "Writing evalution"
+  - title: "Technical Writing and Speaking"
+    url: "/pdfs/TechWritingSpeaking2.0.pdf/"
+  - title: "Writing evaluation"
     url: "/pdfs/CS373WritingEvaluationForm.pdf/"
   - title: "Presentation evaluation"
     url: "/pdfs/CS373PresentationEvaluationForm.pdf/"
   - title: "Sample Final Papers"
     url: "/SampleFinalPapers/"
+  - title: "Using Latex"
+    url: "/Latex/"
 
 - title: "Exercise"
+  url: "/Exercise/"
   side: left
   dropdown:
   - title: "Better Writing"
@@ -31,37 +37,30 @@
     url: "/TitleAbstract/"
   - title: "Technical Discussion"
     url: "/TechnicalDiscussion/"
-  - title: "Postion Paper"
+  - title: "Position Paper"
     url: "/PositionPaper/"
-  - title: "Prediction"
-    url: "/Prediction/"
-  - title: "Postion Paper"
-    url: "/PositionPaper/"
-
-- title: "Presentation"
-  side: left
-  dropdown:
   - title: "Technical Presentation"
     url: "/PresentationTechnical/"
-  - title: "Technical Writing and Speaking"
-    url: "pdfs/TechWritingSpeaking2.0.pdf/"
+  - title: "Prediction"
+    url: "/Prediction/"
+  - title: "Course Retrospective"
+    url: "/CourseRetrospective/"
+
+- title: "Activities"
+  url: "/Activities/"
+  side: left
+  dropdown:
   - title: "Record Presentation"
-    url: "/team/"
-  - title: "Related Projects"
-    url: "/PresentationRecord"
+    url: "/PresentationRecord/"
   - title: "Capstone Bingo"
     url: "/CapstoneBingo/"
 
 - title: Useful Links
+  url: "/UsefulLinks/"
   side: left
-  dropdown:
-  - title: "Using Latex"
-    url: "/Latex/"
-  - title: "Other Links"
-    url: "/UsefulLinks/"
 
-- title: "Submit work"
-  url: "/SubmitWork/"
+- title: "Submit Form"
+  url: "/SubmitForm/"
   side: left
 
 - title: "About"
