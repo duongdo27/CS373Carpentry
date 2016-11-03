@@ -15,13 +15,13 @@
   side: left
   dropdown:
   - title: "Course Book"
-    url: "/pdfs/CSCI373CourseHandbookThirteenthEdition.pdf/"
+    url: "/pdfs/CSCI373CourseHandbookThirteenthEdition.pdf"
   - title: "Technical Writing and Speaking"
-    url: "/pdfs/TechWritingSpeaking2.0.pdf/"
+    url: "/pdfs/TechWritingSpeaking2.0.pdf"
   - title: "Writing evaluation"
-    url: "/pdfs/CS373WritingEvaluationForm.pdf/"
+    url: "/pdfs/CS373WritingEvaluationForm.pdf"
   - title: "Presentation evaluation"
-    url: "/pdfs/CS373PresentationEvaluationForm.pdf/"
+    url: "/pdfs/CS373PresentationEvaluationForm.pdf"
   - title: "Sample Final Papers"
     url: "/SampleFinalPapers/"
   - title: "Using Latex"
